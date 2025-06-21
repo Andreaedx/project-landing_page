@@ -90,6 +90,7 @@ img {
     display: flex;
     flex-direction: column;
     background-color: white;
+    padding-bottom: 100px;
     /* flex-grow: 1; */
 }
 .head {
@@ -108,3 +109,27 @@ img {
     width: 200px;
     text-align: center;
 }
+
+.container2 {
+    display: flex;
+    justify-content: center;
+    background-color: #E5E7EB;
+    padding: 100px 0;
+}
+.section_three {
+    width: 750px; 
+    display: flex;
+    flex-direction: column;
+}
+.sect3_text {
+    font-size: 36px;
+    color: #37355580;
+    font-style: italic;
+    display: flex;
+    justify-content: flex-start;
+}
+.sect3_text2 {
+    font-weight: 900;
+    display: flex;
+    justify-content: flex-end;
+} 
