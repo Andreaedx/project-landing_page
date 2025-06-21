@@ -85,7 +85,7 @@ img {
     margin-bottom: 10px;
 }
 
-
+/* section2 */
 .body {
     display: flex;
     flex-direction: column;
@@ -109,7 +109,7 @@ img {
     width: 200px;
     text-align: center;
 }
-
+/* Section3 */
 .container2 {
     display: flex;
     justify-content: center;
@@ -133,3 +133,33 @@ img {
     display: flex;
     justify-content: flex-end;
 } 
+
+/* section_four */
+.container3 {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    padding: 100px 0px;
+}
+.small-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #3882f6;
+    border-radius: 8px;
+    border: none;
+    padding: 45px 75px;
+}
+.sect4-text {
+    font-size: 18px;
+    font-weight: 700;
+    color: white;
+}
+.sect4-text2 {
+    color: white;
+    display: flex;
+    gap: 200px;
+}
+.button-two {
+    font-weight: 700;
+    border: 2px solid;
+}
